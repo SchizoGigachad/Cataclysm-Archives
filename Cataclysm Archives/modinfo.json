@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cataclysm _archives",
+    "name": "Cataclysm  Archives",
+    "authors": [ "Schizochad" ],
+    "maintainers": [ "Schizochad" ],
+    "description": "Significantly expands the in-game lore by adding hundreds of new newspaper articles.",
+    "category": "items",
+    "dependencies": [ "bn", "realdarkskies", "DinoMod" ]
+  }
+]
