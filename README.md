@@ -15,7 +15,3 @@ Chronological progression as the world deteriorates
 Explore the headlines that chronicled humanity’s fall.
 
 These are the Cataclysm Archives.
-
-
-
-Requirements: This mod is designed to be used with the Really Dark Skies and Dinomod mods. Many articles contain references to Xenoids and Dinosaurs and may not make sense otherwise.
