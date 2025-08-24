@@ -7,6 +7,7 @@
     "maintainers": [ "Schizochad" ],
     "description": "Significantly expands the in-game lore by adding hundreds of new newspaper articles.",
     "category": "items",
-    "dependencies": [ "bn", "realdarkskies", "DinoMod" ]
+    "dependencies": [ "bn" ]
   }
 ]
+
